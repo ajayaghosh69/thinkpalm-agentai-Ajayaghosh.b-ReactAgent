@@ -1,5 +1,15 @@
-AGS Maritime Intelligence Quick Start
-AGS Maritime Intelligence: Quick Start Guide
+Name : Ajaya ghosh .b 
+Track : QA/testing
+
+Title: AGS Maritime Intelligence 🚢
+
+Tools Used:
+
+Groq API: For AI-driven vessel intelligence.
+
+AISStream: For real-time maritime data.
+
+Searoute: For calculating maritime distances and paths.
 
 1.  Install Dependencies:
 
@@ -16,3 +26,6 @@ AGS Maritime Intelligence: Quick Start Guide
 3.  Run & Use:
 
  Paste your script, run it, and search by Ship Name or 7-digit IMO.
+
+
+ 
